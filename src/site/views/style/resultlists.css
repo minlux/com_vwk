@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+
+div.vwkergebnisse
+{
+   margin                : 10px
+}
+
+.vwkergebnisse table
+{
+/*   width                 : 62%;*/
+   min-width             : 680px;
+   font                  : small/1.5 "Tahoma", "Bitstream Vera Sans", Verdana, Helvetica, sans-serif;
+   border-collapse       : collapse;
+   border                : none;
+}
+
+.vwkergebnisse table tr
+{
+   color                 : #666666;
+   background            : #FFFFFF;
+}
+.vwkergebnisse table tr:hover
+{
+   background            : #FFFFFF url(tr_bck.gif) repeat;
+}
+
+.vwkergebnisse table th
+{
+   color                 : #666666;
+   padding               : 5px 5px;
+   border-bottom         : 1px solid #CCCCCC;
+   background            : #FFFFFF url(th_bck.gif) repeat-x;
+   font-weight           : bolder;
+}
+
+.vwkergebnisse table td
+{
+   padding               : 2px 10px;
+   border-bottom         : 1px solid #CCCCCC;
+}
+
+
+.vwkergebnisse span
+{
+   display: inline-block;
+   margin-right: 15px;
+}
+
+
+
+/* Table Cell Alignment */
+.vwkergebnisse th
+{
+   text-align            : left;
+}
+
+.vwkergebnisse th+th,
+.vwkergebnisse td+td
+{
+   width                 : 57%;
+}
+
+
+span.vwkupdate
+{
+   font-style : italic;
+}

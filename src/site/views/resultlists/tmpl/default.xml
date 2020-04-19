@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+   <layout title="COM_VWK_VIEW_RESULTLISTS_DEFAULT_TITLE">
+      <message>COM_VWK_VIEW_RESULTLISTS_DEFAULT_DESC</message>
+   </layout>
+   <fields name="request">
+      <fieldset name="request" addfieldpath="/administrator/components/com_vwk/models/fields">
+         <field name="mid" type="matchselect" label="COM_VWK_VIEW_RESULTLISTS_FIELD_SELECT_MATCH"
+                description="COM_RWK_VIEW_RESULTLISTS_FIELD_SELECT_MATCH_DESC" />
+      </fieldset>
+   </fields>
+</metadata>

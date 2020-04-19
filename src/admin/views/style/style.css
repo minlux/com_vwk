@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+
+#vwk tr.match
+{
+   font-size: 110%;
+   font-weight: bold;
+}
+
+#vwk tr.result td.name:before
+{
+   content: " » ";
+}
+
+#vwk th.chkbox
+{
+   width: 20px;
+}
+
+#vwk th.name
+{
+   text-align: left;
+}
+
+#vwk th.publish,
+#vwk td.publish
+{
+   width: 50px;
+   text-align: center;
+}
+
+#vwk th.order,
+#vwk td.order
+{
+   width: 50px;
+   text-align: center;
+}
+
+
