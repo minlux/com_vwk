@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FormattedReport xmlns = 'urn:crystal-reports:schemas' xmlns:xsi = 'http://www.w3.org/2000/10/XMLSchema-instance'
+>
+<FormattedAreaPair Level="0" Type="Report">
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>308</FormattedValue>
+<Value>308</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>1</FormattedValue>
+<Value>1.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Horber Jessica</FormattedValue>
+<Value>Horber Jessica</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>98</FormattedValue>
+<Value>98</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>97</FormattedValue>
+<Value>97</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>97</FormattedValue>
+<Value>97</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>95</FormattedValue>
+<Value>95</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>332</FormattedValue>
+<Value>332</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>2</FormattedValue>
+<Value>2.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Egger Marco</FormattedValue>
+<Value>Egger Marco</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>97</FormattedValue>
+<Value>97</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>97</FormattedValue>
+<Value>97</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>93</FormattedValue>
+<Value>93</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>93</FormattedValue>
+<Value>93</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>301</FormattedValue>
+<Value>301</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>3</FormattedValue>
+<Value>3.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Michael</FormattedValue>
+<Value>Rogg Michael</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>97</FormattedValue>
+<Value>97</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>9</FormattedValue>
+<Value>9</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>4</FormattedValue>
+<Value>4.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Beggel Bianca</FormattedValue>
+<Value>Beggel Bianca</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>96</FormattedValue>
+<Value>96</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>95</FormattedValue>
+<Value>95</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>95</FormattedValue>
+<Value>95</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>93</FormattedValue>
+<Value>93</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>306</FormattedValue>
+<Value>306</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>5</FormattedValue>
+<Value>5.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Stephan Alexander</FormattedValue>
+<Value>Stephan Alexander</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>95</FormattedValue>
+<Value>95</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>90</FormattedValue>
+<Value>90</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>89</FormattedValue>
+<Value>89</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>87</FormattedValue>
+<Value>87</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>314</FormattedValue>
+<Value>314</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>6</FormattedValue>
+<Value>6.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Dominik</FormattedValue>
+<Value>Rogg Dominik</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>94</FormattedValue>
+<Value>94</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>93</FormattedValue>
+<Value>93</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>330</FormattedValue>
+<Value>330</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>7</FormattedValue>
+<Value>7.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Bisle Theresa</FormattedValue>
+<Value>Bisle Theresa</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>93</FormattedValue>
+<Value>93</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>92</FormattedValue>
+<Value>92</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>88</FormattedValue>
+<Value>88</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>351</FormattedValue>
+<Value>351</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>8</FormattedValue>
+<Value>8.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Beggel Nina</FormattedValue>
+<Value>Beggel Nina</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>91</FormattedValue>
+<Value>91</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>88</FormattedValue>
+<Value>88</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>88</FormattedValue>
+<Value>88</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>87</FormattedValue>
+<Value>87</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>86</FormattedValue>
+<Value>86</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>329</FormattedValue>
+<Value>329</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>9</FormattedValue>
+<Value>9.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Huber Annika</FormattedValue>
+<Value>Huber Annika</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>91</FormattedValue>
+<Value>91</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>335</FormattedValue>
+<Value>335</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>10</FormattedValue>
+<Value>10.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Beggel Jörg</FormattedValue>
+<Value>Beggel Jörg</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>90</FormattedValue>
+<Value>90</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>88</FormattedValue>
+<Value>88</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>85</FormattedValue>
+<Value>85</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>85</FormattedValue>
+<Value>85</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>83</FormattedValue>
+<Value>83</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>338</FormattedValue>
+<Value>338</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>11</FormattedValue>
+<Value>11.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Katja</FormattedValue>
+<Value>Rogg Katja</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>88</FormattedValue>
+<Value>88</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>86</FormattedValue>
+<Value>86</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>86</FormattedValue>
+<Value>86</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>85</FormattedValue>
+<Value>85</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>70</FormattedValue>
+<Value>70</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>318</FormattedValue>
+<Value>318</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>12</FormattedValue>
+<Value>12.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Haupeltshofer Pia</FormattedValue>
+<Value>Haupeltshofer Pia</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>87</FormattedValue>
+<Value>87</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>82</FormattedValue>
+<Value>82</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>321</FormattedValue>
+<Value>321</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>13</FormattedValue>
+<Value>13.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Landsperger Peter</FormattedValue>
+<Value>Landsperger Peter</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>86</FormattedValue>
+<Value>86</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>83</FormattedValue>
+<Value>83</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>83</FormattedValue>
+<Value>83</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>78</FormattedValue>
+<Value>78</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>78</FormattedValue>
+<Value>78</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>345</FormattedValue>
+<Value>345</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>14</FormattedValue>
+<Value>14.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Thoma Patrick</FormattedValue>
+<Value>Thoma Patrick</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>84</FormattedValue>
+<Value>84</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>84</FormattedValue>
+<Value>84</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>83</FormattedValue>
+<Value>83</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>83</FormattedValue>
+<Value>83</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>83</FormattedValue>
+<Value>83</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>337</FormattedValue>
+<Value>337</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>15</FormattedValue>
+<Value>15.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Stephan Manuel</FormattedValue>
+<Value>Stephan Manuel</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>81</FormattedValue>
+<Value>81</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>72</FormattedValue>
+<Value>72</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>67</FormattedValue>
+<Value>67</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>65</FormattedValue>
+<Value>65</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>65</FormattedValue>
+<Value>65</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>312</FormattedValue>
+<Value>312</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>16</FormattedValue>
+<Value>16.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Martin</FormattedValue>
+<Value>Rogg Martin</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>78</FormattedValue>
+<Value>78</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>74</FormattedValue>
+<Value>74</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>320</FormattedValue>
+<Value>320</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>17</FormattedValue>
+<Value>17.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Raphael</FormattedValue>
+<Value>Rogg Raphael</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>77</FormattedValue>
+<Value>77</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>77</FormattedValue>
+<Value>77</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>76</FormattedValue>
+<Value>76</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>75</FormattedValue>
+<Value>75</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>75</FormattedValue>
+<Value>75</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>343</FormattedValue>
+<Value>343</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>18</FormattedValue>
+<Value>18.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Horber Mario</FormattedValue>
+<Value>Horber Mario</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>77</FormattedValue>
+<Value>77</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>76</FormattedValue>
+<Value>76</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>75</FormattedValue>
+<Value>75</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>70</FormattedValue>
+<Value>70</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>69</FormattedValue>
+<Value>69</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>331</FormattedValue>
+<Value>331</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>19</FormattedValue>
+<Value>19.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Höglmeier Simon</FormattedValue>
+<Value>Höglmeier Simon</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>77</FormattedValue>
+<Value>77</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>74</FormattedValue>
+<Value>74</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>60</FormattedValue>
+<Value>60</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>344</FormattedValue>
+<Value>344</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>20</FormattedValue>
+<Value>20.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rimmel Andreas</FormattedValue>
+<Value>Rimmel Andreas</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>77</FormattedValue>
+<Value>77</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>70</FormattedValue>
+<Value>70</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>70</FormattedValue>
+<Value>70</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>66</FormattedValue>
+<Value>66</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>66</FormattedValue>
+<Value>66</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>339</FormattedValue>
+<Value>339</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>21</FormattedValue>
+<Value>21.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Frey Immanuel</FormattedValue>
+<Value>Frey Immanuel</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>76</FormattedValue>
+<Value>76</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>74</FormattedValue>
+<Value>74</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>70</FormattedValue>
+<Value>70</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>63</FormattedValue>
+<Value>63</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>60</FormattedValue>
+<Value>60</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>349</FormattedValue>
+<Value>349</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>22</FormattedValue>
+<Value>22.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Egger Stefan</FormattedValue>
+<Value>Egger Stefan</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>74</FormattedValue>
+<Value>74</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>69</FormattedValue>
+<Value>69</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>63</FormattedValue>
+<Value>63</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>62</FormattedValue>
+<Value>62</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>341</FormattedValue>
+<Value>341</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>23</FormattedValue>
+<Value>23.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>März Lothar</FormattedValue>
+<Value>März Lothar</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>73</FormattedValue>
+<Value>73</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>70</FormattedValue>
+<Value>70</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>67</FormattedValue>
+<Value>67</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>65</FormattedValue>
+<Value>65</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>65</FormattedValue>
+<Value>65</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>350</FormattedValue>
+<Value>350</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>24</FormattedValue>
+<Value>24.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Huber Felix</FormattedValue>
+<Value>Huber Felix</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>72</FormattedValue>
+<Value>72</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>66</FormattedValue>
+<Value>66</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>63</FormattedValue>
+<Value>63</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>59</FormattedValue>
+<Value>59</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>58</FormattedValue>
+<Value>58</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>323</FormattedValue>
+<Value>323</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>25</FormattedValue>
+<Value>25.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Zwing Christopher</FormattedValue>
+<Value>Zwing Christopher</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>69</FormattedValue>
+<Value>69</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>61</FormattedValue>
+<Value>61</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>352</FormattedValue>
+<Value>352</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>26</FormattedValue>
+<Value>26.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Hampp Michael</FormattedValue>
+<Value>Hampp Michael</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>64</FormattedValue>
+<Value>64</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>63</FormattedValue>
+<Value>63</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>59</FormattedValue>
+<Value>59</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>57</FormattedValue>
+<Value>57</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>55</FormattedValue>
+<Value>55</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>336</FormattedValue>
+<Value>336</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>27</FormattedValue>
+<Value>27.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Königsberger Philipp</FormattedValue>
+<Value>Königsberger Philipp</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>64</FormattedValue>
+<Value>64</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>58</FormattedValue>
+<Value>58</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>58</FormattedValue>
+<Value>58</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>333</FormattedValue>
+<Value>333</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>28</FormattedValue>
+<Value>28.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Salger Christopher</FormattedValue>
+<Value>Salger Christopher</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>64</FormattedValue>
+<Value>64</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>54</FormattedValue>
+<Value>54</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>342</FormattedValue>
+<Value>342</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>29</FormattedValue>
+<Value>29.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Julian</FormattedValue>
+<Value>Rogg Julian</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>63</FormattedValue>
+<Value>63</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>52</FormattedValue>
+<Value>52</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>51</FormattedValue>
+<Value>51</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>46</FormattedValue>
+<Value>46</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>44</FormattedValue>
+<Value>44</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>346</FormattedValue>
+<Value>346</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>30</FormattedValue>
+<Value>30.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Geiger Tobias</FormattedValue>
+<Value>Geiger Tobias</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>61</FormattedValue>
+<Value>61</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>56</FormattedValue>
+<Value>56</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>50</FormattedValue>
+<Value>50</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>46</FormattedValue>
+<Value>46</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>356</FormattedValue>
+<Value>356</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>31</FormattedValue>
+<Value>31.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Weber, Samuel</FormattedValue>
+<Value>Weber, Samuel</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>58</FormattedValue>
+<Value>58</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>45</FormattedValue>
+<Value>45</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>43</FormattedValue>
+<Value>43</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>41</FormattedValue>
+<Value>41</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>357</FormattedValue>
+<Value>357</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>32</FormattedValue>
+<Value>32.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Dilba Jakob</FormattedValue>
+<Value>Dilba Jakob</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>57</FormattedValue>
+<Value>57</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>39</FormattedValue>
+<Value>39</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue>39</FormattedValue>
+<Value>39</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue>31</FormattedValue>
+<Value>31</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue>28</FormattedValue>
+<Value>28</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>322</FormattedValue>
+<Value>322</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>33</FormattedValue>
+<Value>33.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Rogg Volker</FormattedValue>
+<Value>Rogg Volker</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>55</FormattedValue>
+<Value>55</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>50</FormattedValue>
+<Value>50</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>360</FormattedValue>
+<Value>360</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>34</FormattedValue>
+<Value>34.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Dilba Maximilian</FormattedValue>
+<Value>Dilba Maximilian</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>53</FormattedValue>
+<Value>53</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue>31</FormattedValue>
+<Value>31</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>358</FormattedValue>
+<Value>358</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>35</FormattedValue>
+<Value>35.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Pistel Philipp</FormattedValue>
+<Value>Pistel Philipp</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>50</FormattedValue>
+<Value>50</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Startnummer}"><ObjectName>Feld5</ObjectName>
+<FormattedValue>359</FormattedValue>
+<Value>359</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="{Ergebnisse.Platz}"><ObjectName>Feld6</ObjectName>
+<FormattedValue>36</FormattedValue>
+<Value>36.00</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Name}"><ObjectName>Feld7</ObjectName>
+<FormattedValue>Huber Sonja</FormattedValue>
+<Value>Huber Sonja</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg1}"><ObjectName>Feld8</ObjectName>
+<FormattedValue>29</FormattedValue>
+<Value>29</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg2}"><ObjectName>Feld9</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg3}"><ObjectName>Feld10</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg4}"><ObjectName>Feld11</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{@Erg5}"><ObjectName>Feld12</ObjectName>
+<FormattedValue></FormattedValue>
+<Value></Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{Ergebnisse.Verein}"><ObjectName>Feld14</ObjectName>
+<FormattedValue>Adlersch. Breitenbrunn e.V.</FormattedValue>
+<Value>Adlersch. Breitenbrunn e.V.</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+</FormattedAreaPair>
+</FormattedReport>
